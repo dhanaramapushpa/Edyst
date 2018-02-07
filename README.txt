@@ -1,4 +1,2 @@
-pushpa
-bhagya
-mummy
+amma 
 daddy
